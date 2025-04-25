@@ -24,8 +24,6 @@ public class Example2 {
         new Thread(new Person(dressRoom, Type.MAN), "Мужчина4").start();
         Thread.sleep(1000);
 
-
-
     }
 }
 
